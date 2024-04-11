@@ -6,16 +6,15 @@
     margin: 0;padding: 0;
 }
 .wrapper {
-    height: 71vh;
-    width: 100%;
-    overflow-x: hidden;
-  }
+  height: 450px;
+  width: 100%;
+  overflow: hidden;
+}
   
   .container {
-    overflow-x: hidden;
     position: absolute;
     width: 100%;
-    height: 70vh;
+    height: 450px;
     background-image: url(./images/wallpaper.jpg);
     background-size: cover;
     z-index: 0;

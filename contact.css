@@ -7,11 +7,11 @@
     margin: 0;padding: 0;
 }
 .wrapper {
-    height: 80vh;
+  height: 350px;
     width: 100%;
     overflow-x: hidden;
   }
-  
+ 
   .container {
     overflow-x: hidden;
     position: absolute;
@@ -118,7 +118,7 @@
   .booking-btn {
     color: white;
     background-color: #fea116;
-    border-radius: 10%;
+    
     padding: 20px;
     border: none;
     font-weight: bold;
